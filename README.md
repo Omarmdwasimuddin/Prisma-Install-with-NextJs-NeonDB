@@ -28,7 +28,7 @@ This will create:
 
 The app/generated/prisma output directory for the generated Prisma Client will be created when you run prisma generate or prisma migrate dev in a later step.
 
-#### visit koro https://neon.com/ ---> Sign Up koro then Login kore dashboard e jaw--->
+#### visit koro https://neon.com/ ---> Sign Up koro then Login kore dashboard e jaw--->New Project button click koro--->Project name daw: Prisma Project --->Region: AWS Asia Pacific 1 (Singapore) --->click: Create
 
 ### Connection String copy koro .env te paste koro
 
